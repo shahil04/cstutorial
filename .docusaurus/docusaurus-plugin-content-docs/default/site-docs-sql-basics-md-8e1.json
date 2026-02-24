@@ -6,9 +6,9 @@
   "source": "@site/docs/sql/basics.md",
   "sourceDirName": "sql",
   "slug": "/sql/basics",
-  "permalink": "/tech-tutorial-site/docs/sql/basics",
+  "permalink": "/cstutorial/docs/sql/basics",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/basics.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/sql/basics.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Variables in Python",
-    "permalink": "/tech-tutorial-site/docs/python/variables"
+    "permalink": "/cstutorial/docs/python/variables"
   },
   "next": {
     "title": "JOINS in SQL",
-    "permalink": "/tech-tutorial-site/docs/sql/joins"
+    "permalink": "/cstutorial/docs/sql/joins"
   }
 }

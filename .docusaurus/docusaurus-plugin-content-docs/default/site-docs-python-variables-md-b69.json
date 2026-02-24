@@ -6,9 +6,9 @@
   "source": "@site/docs/python/variables.md",
   "sourceDirName": "python",
   "slug": "/python/variables",
-  "permalink": "/tech-tutorial-site/docs/python/variables",
+  "permalink": "/cstutorial/docs/python/variables",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/variables.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/variables.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Python List",
-    "permalink": "/tech-tutorial-site/docs/python/python_list"
+    "permalink": "/cstutorial/docs/python/python_list"
   },
   "next": {
     "title": "SQL Basics",
-    "permalink": "/tech-tutorial-site/docs/sql/basics"
+    "permalink": "/cstutorial/docs/sql/basics"
   }
 }

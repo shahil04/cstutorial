@@ -12,6 +12,7 @@ In your project directory, run:
 ```
 npm install --save gh-pages
 ```
+my github repo https://github.com/shahil04/cstutorial.git
 
 ## 3. Update `docusaurus.config.js`
 Set the following fields:
@@ -49,7 +50,7 @@ npm run deploy
 - Set source to `gh-pages` branch and `/ (root)`
 
 ## 7. Access Your Site
-Visit: `https://<USERNAME>.github.io/<REPO-NAME>/`
+Visit: `https://<USERNAME>.github.io/cstutorial/`
 
 ---
 

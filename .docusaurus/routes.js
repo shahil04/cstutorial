@@ -3,131 +3,96 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/tech-tutorial-site/__docusaurus/debug',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug', 'c31'),
+    path: '/cstutorial/about',
+    component: ComponentCreator('/cstutorial/about', '12f'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/config',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/config', 'add'),
+    path: '/cstutorial/blog',
+    component: ComponentCreator('/cstutorial/blog', '213'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/content',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/content', '382'),
+    path: '/cstutorial/blog/2026/01/01/welcome',
+    component: ComponentCreator('/cstutorial/blog/2026/01/01/welcome', 'd20'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/globalData',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/globalData', 'a26'),
+    path: '/cstutorial/blog/archive',
+    component: ComponentCreator('/cstutorial/blog/archive', '2a4'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/metadata',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/metadata', 'bf0'),
+    path: '/cstutorial/contact',
+    component: ComponentCreator('/cstutorial/contact', 'f85'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/registry',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/registry', '9ec'),
+    path: '/cstutorial/privacy-policy',
+    component: ComponentCreator('/cstutorial/privacy-policy', '675'),
     exact: true
   },
   {
-    path: '/tech-tutorial-site/__docusaurus/debug/routes',
-    component: ComponentCreator('/tech-tutorial-site/__docusaurus/debug/routes', 'fd8'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/about',
-    component: ComponentCreator('/tech-tutorial-site/about', '1d6'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/blog',
-    component: ComponentCreator('/tech-tutorial-site/blog', '5df'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/blog/2026/01/01/welcome',
-    component: ComponentCreator('/tech-tutorial-site/blog/2026/01/01/welcome', '9ed'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/blog/archive',
-    component: ComponentCreator('/tech-tutorial-site/blog/archive', '4c6'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/contact',
-    component: ComponentCreator('/tech-tutorial-site/contact', '136'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/privacy-policy',
-    component: ComponentCreator('/tech-tutorial-site/privacy-policy', 'd84'),
-    exact: true
-  },
-  {
-    path: '/tech-tutorial-site/docs',
-    component: ComponentCreator('/tech-tutorial-site/docs', '87b'),
+    path: '/cstutorial/docs',
+    component: ComponentCreator('/cstutorial/docs', 'c03'),
     routes: [
       {
-        path: '/tech-tutorial-site/docs/excel/demo',
-        component: ComponentCreator('/tech-tutorial-site/docs/excel/demo', '937'),
+        path: '/cstutorial/docs/excel/demo',
+        component: ComponentCreator('/cstutorial/docs/excel/demo', '08d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/demo',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/demo', '087'),
+        path: '/cstutorial/docs/python/demo',
+        component: ComponentCreator('/cstutorial/docs/python/demo', '3f6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/functions',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/functions', 'c53'),
+        path: '/cstutorial/docs/python/functions',
+        component: ComponentCreator('/cstutorial/docs/python/functions', '513'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/intro',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/intro', '06f'),
+        path: '/cstutorial/docs/python/intro',
+        component: ComponentCreator('/cstutorial/docs/python/intro', '009'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/loops',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/loops', 'a89'),
+        path: '/cstutorial/docs/python/loops',
+        component: ComponentCreator('/cstutorial/docs/python/loops', 'c85'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/python_list',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/python_list', '555'),
+        path: '/cstutorial/docs/python/python_list',
+        component: ComponentCreator('/cstutorial/docs/python/python_list', 'd5e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/python/variables',
-        component: ComponentCreator('/tech-tutorial-site/docs/python/variables', 'c0c'),
+        path: '/cstutorial/docs/python/variables',
+        component: ComponentCreator('/cstutorial/docs/python/variables', 'ca0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/sql/basics',
-        component: ComponentCreator('/tech-tutorial-site/docs/sql/basics', 'ce5'),
+        path: '/cstutorial/docs/sql/basics',
+        component: ComponentCreator('/cstutorial/docs/sql/basics', '3b4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/sql/joins',
-        component: ComponentCreator('/tech-tutorial-site/docs/sql/joins', 'b92'),
+        path: '/cstutorial/docs/sql/joins',
+        component: ComponentCreator('/cstutorial/docs/sql/joins', 'cde'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/tech-tutorial-site/docs/sql/select',
-        component: ComponentCreator('/tech-tutorial-site/docs/sql/select', 'f27'),
+        path: '/cstutorial/docs/sql/select',
+        component: ComponentCreator('/cstutorial/docs/sql/select', '88b'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

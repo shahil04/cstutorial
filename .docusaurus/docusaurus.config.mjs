@@ -7,7 +7,7 @@ export default {
   "title": "Tech Tutorials",
   "tagline": "Learn Programming Step by Step",
   "url": "https://yourusername.github.io",
-  "baseUrl": "/tech-tutorial-site/",
+  "baseUrl": "/cstutorial/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -29,7 +29,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\sidebars.js",
-          "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/"
+          "editUrl": "https://github.com/shahil04/cstutorial/edit/main/"
         },
         "blog": {
           "showReadingTime": true

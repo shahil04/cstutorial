@@ -6,9 +6,9 @@
   "source": "@site/docs/excel/demo.md",
   "sourceDirName": "excel",
   "slug": "/excel/demo",
-  "permalink": "/tech-tutorial-site/docs/excel/demo",
+  "permalink": "/cstutorial/docs/excel/demo",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/excel/demo.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/excel/demo.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Deploy Docusaurus Site to GitHub Pages for Free",
-    "permalink": "/tech-tutorial-site/docs/python/demo"
+    "permalink": "/cstutorial/docs/python/demo"
   }
 }

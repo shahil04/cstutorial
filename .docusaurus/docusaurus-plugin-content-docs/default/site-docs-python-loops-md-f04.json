@@ -6,9 +6,9 @@
   "source": "@site/docs/python/loops.md",
   "sourceDirName": "python",
   "slug": "/python/loops",
-  "permalink": "/tech-tutorial-site/docs/python/loops",
+  "permalink": "/cstutorial/docs/python/loops",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/loops.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/loops.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Python",
-    "permalink": "/tech-tutorial-site/docs/python/intro"
+    "permalink": "/cstutorial/docs/python/intro"
   },
   "next": {
     "title": "Python List",
-    "permalink": "/tech-tutorial-site/docs/python/python_list"
+    "permalink": "/cstutorial/docs/python/python_list"
   }
 }

@@ -1,63 +1,63 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/tech-tutorial-site/docs",
+      "path": "/cstutorial/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/tech-tutorial-site/docs",
+          "path": "/cstutorial/docs",
           "mainDocId": "excel/demo",
           "docs": [
             {
               "id": "excel/demo",
-              "path": "/tech-tutorial-site/docs/excel/demo",
+              "path": "/cstutorial/docs/excel/demo",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/demo",
-              "path": "/tech-tutorial-site/docs/python/demo",
+              "path": "/cstutorial/docs/python/demo",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/functions",
-              "path": "/tech-tutorial-site/docs/python/functions",
+              "path": "/cstutorial/docs/python/functions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/intro",
-              "path": "/tech-tutorial-site/docs/python/intro",
+              "path": "/cstutorial/docs/python/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/loops",
-              "path": "/tech-tutorial-site/docs/python/loops",
+              "path": "/cstutorial/docs/python/loops",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/python_list",
-              "path": "/tech-tutorial-site/docs/python/python_list",
+              "path": "/cstutorial/docs/python/python_list",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "python/variables",
-              "path": "/tech-tutorial-site/docs/python/variables",
+              "path": "/cstutorial/docs/python/variables",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sql/basics",
-              "path": "/tech-tutorial-site/docs/sql/basics",
+              "path": "/cstutorial/docs/sql/basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sql/joins",
-              "path": "/tech-tutorial-site/docs/sql/joins",
+              "path": "/cstutorial/docs/sql/joins",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "sql/select",
-              "path": "/tech-tutorial-site/docs/sql/select",
+              "path": "/cstutorial/docs/sql/select",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -65,7 +65,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/tech-tutorial-site/docs/excel/demo",
+                "path": "/cstutorial/docs/excel/demo",
                 "label": "excel/demo"
               }
             }

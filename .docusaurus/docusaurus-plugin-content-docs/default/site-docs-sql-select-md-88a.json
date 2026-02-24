@@ -6,9 +6,9 @@
   "source": "@site/docs/sql/select.md",
   "sourceDirName": "sql",
   "slug": "/sql/select",
-  "permalink": "/tech-tutorial-site/docs/sql/select",
+  "permalink": "/cstutorial/docs/sql/select",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/select.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/sql/select.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "JOINS in SQL",
-    "permalink": "/tech-tutorial-site/docs/sql/joins"
+    "permalink": "/cstutorial/docs/sql/joins"
   }
 }

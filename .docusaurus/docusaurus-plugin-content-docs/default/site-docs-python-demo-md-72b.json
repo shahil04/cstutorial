@@ -6,19 +6,19 @@
   "source": "@site/docs/python/demo.md",
   "sourceDirName": "python",
   "slug": "/python/demo",
-  "permalink": "/tech-tutorial-site/docs/python/demo",
+  "permalink": "/cstutorial/docs/python/demo",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/demo.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/demo.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hello Excels",
-    "permalink": "/tech-tutorial-site/docs/excel/demo"
+    "permalink": "/cstutorial/docs/excel/demo"
   },
   "next": {
     "title": "Functions in Python",
-    "permalink": "/tech-tutorial-site/docs/python/functions"
+    "permalink": "/cstutorial/docs/python/functions"
   }
 }

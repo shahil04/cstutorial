@@ -6,9 +6,9 @@
   "source": "@site/docs/python/intro.md",
   "sourceDirName": "python",
   "slug": "/python/intro",
-  "permalink": "/tech-tutorial-site/docs/python/intro",
+  "permalink": "/cstutorial/docs/python/intro",
   "draft": false,
-  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/intro.md",
+  "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Functions in Python",
-    "permalink": "/tech-tutorial-site/docs/python/functions"
+    "permalink": "/cstutorial/docs/python/functions"
   },
   "next": {
     "title": "Loops in Python",
-    "permalink": "/tech-tutorial-site/docs/python/loops"
+    "permalink": "/cstutorial/docs/python/loops"
   }
 }

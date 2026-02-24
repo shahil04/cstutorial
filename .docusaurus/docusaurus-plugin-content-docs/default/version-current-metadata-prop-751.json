@@ -18,7 +18,7 @@
           {
             "type": "link",
             "label": "Hello Excels",
-            "href": "/tech-tutorial-site/docs/excel/demo",
+            "href": "/cstutorial/docs/excel/demo",
             "docId": "excel/demo"
           }
         ]
@@ -32,37 +32,37 @@
           {
             "type": "link",
             "label": "Deploy Docusaurus Site to GitHub Pages for Free",
-            "href": "/tech-tutorial-site/docs/python/demo",
+            "href": "/cstutorial/docs/python/demo",
             "docId": "python/demo"
           },
           {
             "type": "link",
             "label": "Functions in Python",
-            "href": "/tech-tutorial-site/docs/python/functions",
+            "href": "/cstutorial/docs/python/functions",
             "docId": "python/functions"
           },
           {
             "type": "link",
             "label": "Introduction to Python",
-            "href": "/tech-tutorial-site/docs/python/intro",
+            "href": "/cstutorial/docs/python/intro",
             "docId": "python/intro"
           },
           {
             "type": "link",
             "label": "Loops in Python",
-            "href": "/tech-tutorial-site/docs/python/loops",
+            "href": "/cstutorial/docs/python/loops",
             "docId": "python/loops"
           },
           {
             "type": "link",
             "label": "Python List",
-            "href": "/tech-tutorial-site/docs/python/python_list",
+            "href": "/cstutorial/docs/python/python_list",
             "docId": "python/python_list"
           },
           {
             "type": "link",
             "label": "Variables in Python",
-            "href": "/tech-tutorial-site/docs/python/variables",
+            "href": "/cstutorial/docs/python/variables",
             "docId": "python/variables"
           }
         ]
@@ -76,19 +76,19 @@
           {
             "type": "link",
             "label": "SQL Basics",
-            "href": "/tech-tutorial-site/docs/sql/basics",
+            "href": "/cstutorial/docs/sql/basics",
             "docId": "sql/basics"
           },
           {
             "type": "link",
             "label": "JOINS in SQL",
-            "href": "/tech-tutorial-site/docs/sql/joins",
+            "href": "/cstutorial/docs/sql/joins",
             "docId": "sql/joins"
           },
           {
             "type": "link",
             "label": "SELECT in SQL",
-            "href": "/tech-tutorial-site/docs/sql/select",
+            "href": "/cstutorial/docs/sql/select",
             "docId": "sql/select"
           }
         ]

@@ -9,10 +9,10 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/tech-tutorial-site/docs",
-          "tagsPath": "/tech-tutorial-site/docs/tags",
-          "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs",
-          "editUrlLocalized": "https://github.com/yourusername/tech-tutorial-site/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "path": "/cstutorial/docs",
+          "tagsPath": "/cstutorial/docs/tags",
+          "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs",
+          "editUrlLocalized": "https://github.com/shahil04/cstutorial/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\sidebars.js",
@@ -27,9 +27,9 @@
               "source": "@site/docs/excel/demo.md",
               "sourceDirName": "excel",
               "slug": "/excel/demo",
-              "permalink": "/tech-tutorial-site/docs/excel/demo",
+              "permalink": "/cstutorial/docs/excel/demo",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/excel/demo.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/excel/demo.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -38,7 +38,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Deploy Docusaurus Site to GitHub Pages for Free",
-                "permalink": "/tech-tutorial-site/docs/python/demo"
+                "permalink": "/cstutorial/docs/python/demo"
               }
             },
             {
@@ -49,20 +49,20 @@
               "source": "@site/docs/python/demo.md",
               "sourceDirName": "python",
               "slug": "/python/demo",
-              "permalink": "/tech-tutorial-site/docs/python/demo",
+              "permalink": "/cstutorial/docs/python/demo",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/demo.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/demo.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Hello Excels",
-                "permalink": "/tech-tutorial-site/docs/excel/demo"
+                "permalink": "/cstutorial/docs/excel/demo"
               },
               "next": {
                 "title": "Functions in Python",
-                "permalink": "/tech-tutorial-site/docs/python/functions"
+                "permalink": "/cstutorial/docs/python/functions"
               }
             },
             {
@@ -73,9 +73,9 @@
               "source": "@site/docs/python/functions.md",
               "sourceDirName": "python",
               "slug": "/python/functions",
-              "permalink": "/tech-tutorial-site/docs/python/functions",
+              "permalink": "/cstutorial/docs/python/functions",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/functions.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/functions.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -85,11 +85,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy Docusaurus Site to GitHub Pages for Free",
-                "permalink": "/tech-tutorial-site/docs/python/demo"
+                "permalink": "/cstutorial/docs/python/demo"
               },
               "next": {
                 "title": "Introduction to Python",
-                "permalink": "/tech-tutorial-site/docs/python/intro"
+                "permalink": "/cstutorial/docs/python/intro"
               }
             },
             {
@@ -100,9 +100,9 @@
               "source": "@site/docs/python/intro.md",
               "sourceDirName": "python",
               "slug": "/python/intro",
-              "permalink": "/tech-tutorial-site/docs/python/intro",
+              "permalink": "/cstutorial/docs/python/intro",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/intro.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -112,11 +112,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Functions in Python",
-                "permalink": "/tech-tutorial-site/docs/python/functions"
+                "permalink": "/cstutorial/docs/python/functions"
               },
               "next": {
                 "title": "Loops in Python",
-                "permalink": "/tech-tutorial-site/docs/python/loops"
+                "permalink": "/cstutorial/docs/python/loops"
               }
             },
             {
@@ -127,9 +127,9 @@
               "source": "@site/docs/python/loops.md",
               "sourceDirName": "python",
               "slug": "/python/loops",
-              "permalink": "/tech-tutorial-site/docs/python/loops",
+              "permalink": "/cstutorial/docs/python/loops",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/loops.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/loops.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -139,11 +139,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to Python",
-                "permalink": "/tech-tutorial-site/docs/python/intro"
+                "permalink": "/cstutorial/docs/python/intro"
               },
               "next": {
                 "title": "Python List",
-                "permalink": "/tech-tutorial-site/docs/python/python_list"
+                "permalink": "/cstutorial/docs/python/python_list"
               }
             },
             {
@@ -154,9 +154,9 @@
               "source": "@site/docs/python/python_list.md",
               "sourceDirName": "python",
               "slug": "/python/python_list",
-              "permalink": "/tech-tutorial-site/docs/python/python_list",
+              "permalink": "/cstutorial/docs/python/python_list",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/python_list.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/python_list.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -165,11 +165,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Loops in Python",
-                "permalink": "/tech-tutorial-site/docs/python/loops"
+                "permalink": "/cstutorial/docs/python/loops"
               },
               "next": {
                 "title": "Variables in Python",
-                "permalink": "/tech-tutorial-site/docs/python/variables"
+                "permalink": "/cstutorial/docs/python/variables"
               }
             },
             {
@@ -180,9 +180,9 @@
               "source": "@site/docs/python/variables.md",
               "sourceDirName": "python",
               "slug": "/python/variables",
-              "permalink": "/tech-tutorial-site/docs/python/variables",
+              "permalink": "/cstutorial/docs/python/variables",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/variables.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/python/variables.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -192,11 +192,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Python List",
-                "permalink": "/tech-tutorial-site/docs/python/python_list"
+                "permalink": "/cstutorial/docs/python/python_list"
               },
               "next": {
                 "title": "SQL Basics",
-                "permalink": "/tech-tutorial-site/docs/sql/basics"
+                "permalink": "/cstutorial/docs/sql/basics"
               }
             },
             {
@@ -207,9 +207,9 @@
               "source": "@site/docs/sql/basics.md",
               "sourceDirName": "sql",
               "slug": "/sql/basics",
-              "permalink": "/tech-tutorial-site/docs/sql/basics",
+              "permalink": "/cstutorial/docs/sql/basics",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/basics.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/sql/basics.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -219,11 +219,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Variables in Python",
-                "permalink": "/tech-tutorial-site/docs/python/variables"
+                "permalink": "/cstutorial/docs/python/variables"
               },
               "next": {
                 "title": "JOINS in SQL",
-                "permalink": "/tech-tutorial-site/docs/sql/joins"
+                "permalink": "/cstutorial/docs/sql/joins"
               }
             },
             {
@@ -234,9 +234,9 @@
               "source": "@site/docs/sql/joins.md",
               "sourceDirName": "sql",
               "slug": "/sql/joins",
-              "permalink": "/tech-tutorial-site/docs/sql/joins",
+              "permalink": "/cstutorial/docs/sql/joins",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/joins.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/sql/joins.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -246,11 +246,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "SQL Basics",
-                "permalink": "/tech-tutorial-site/docs/sql/basics"
+                "permalink": "/cstutorial/docs/sql/basics"
               },
               "next": {
                 "title": "SELECT in SQL",
-                "permalink": "/tech-tutorial-site/docs/sql/select"
+                "permalink": "/cstutorial/docs/sql/select"
               }
             },
             {
@@ -261,9 +261,9 @@
               "source": "@site/docs/sql/select.md",
               "sourceDirName": "sql",
               "slug": "/sql/select",
-              "permalink": "/tech-tutorial-site/docs/sql/select",
+              "permalink": "/cstutorial/docs/sql/select",
               "draft": false,
-              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/select.md",
+              "editUrl": "https://github.com/shahil04/cstutorial/edit/main/docs/sql/select.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -273,7 +273,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "JOINS in SQL",
-                "permalink": "/tech-tutorial-site/docs/sql/joins"
+                "permalink": "/cstutorial/docs/sql/joins"
               }
             }
           ],
@@ -357,7 +357,7 @@
         {
           "id": "/2026/01/01/welcome",
           "metadata": {
-            "permalink": "/tech-tutorial-site/blog/2026/01/01/welcome",
+            "permalink": "/cstutorial/blog/2026/01/01/welcome",
             "source": "@site/blog/2026-01-01-welcome.md",
             "title": "Welcome to Tech Tutorials",
             "description": "This is the blog for announcements and guides.",
@@ -385,7 +385,7 @@
             "/2026/01/01/welcome"
           ],
           "metadata": {
-            "permalink": "/tech-tutorial-site/blog",
+            "permalink": "/cstutorial/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -396,24 +396,24 @@
         }
       ],
       "blogTags": {},
-      "blogTagsListPath": "/tech-tutorial-site/blog/tags"
+      "blogTagsListPath": "/cstutorial/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/tech-tutorial-site/about",
+        "permalink": "/cstutorial/about",
         "source": "@site/src/pages/about.js"
       },
       {
         "type": "jsx",
-        "permalink": "/tech-tutorial-site/contact",
+        "permalink": "/cstutorial/contact",
         "source": "@site/src/pages/contact.js"
       },
       {
         "type": "jsx",
-        "permalink": "/tech-tutorial-site/privacy-policy",
+        "permalink": "/cstutorial/privacy-policy",
         "source": "@site/src/pages/privacy-policy.js"
       }
     ]

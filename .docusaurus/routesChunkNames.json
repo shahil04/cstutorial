@@ -1,141 +1,98 @@
 {
-  "/tech-tutorial-site/__docusaurus/debug-c31": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/cstutorial/about-12f": {
+    "__comp": "7792a21f",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/__docusaurus/debug/config-add": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/__docusaurus/debug/content-382": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
+      "plugin": "2255b9fc"
     },
-    "allContent": "allContent---tech-tutorial-site-docusaurus-debug-content-246-86e"
+    "config": "5e9f5e1a"
   },
-  "/tech-tutorial-site/__docusaurus/debug/globalData-a26": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/cstutorial/blog-213": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/__docusaurus/debug/metadata-bf0": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/__docusaurus/debug/registry-9ec": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/__docusaurus/debug/routes-fd8": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-docusaurus-debug-5-f-1-22f"
-    }
-  },
-  "/tech-tutorial-site/about-1d6": {
-    "__comp": "__comp---site-src-pages-about-js-779-319",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-about-225-7dc"
+      "plugin": "bc365cf3"
     },
-    "config": "config---tech-tutorial-site-about-5-e-9-2b9"
-  },
-  "/tech-tutorial-site/blog-5df": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---tech-tutorial-site-blogbc-3-8d5"
-    },
-    "sidebar": "sidebar---tech-tutorial-site-blog-814-f71",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---tech-tutorial-site-blog-0-d-8-bf8"
+        "content": "0d8c50f1"
       }
     ],
-    "metadata": "metadata---tech-tutorial-site-blog-9-a-7-b78"
+    "metadata": "ba7d6d59"
   },
-  "/tech-tutorial-site/blog/2026/01/01/welcome-9ed": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/cstutorial/blog/2026/01/01/welcome-d20": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-blogbc-3-8d5"
+      "plugin": "bc365cf3"
     },
-    "sidebar": "sidebar---tech-tutorial-site-blog-814-f71",
-    "content": "content---tech-tutorial-site-blog-2026-01-01-welcomef-62-afd"
+    "sidebar": "814f3328",
+    "content": "f628fb10"
   },
-  "/tech-tutorial-site/blog/archive-4c6": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/cstutorial/blog/archive-2a4": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-blogbc-3-8d5"
+      "plugin": "bc365cf3"
     },
-    "archive": "archive---tech-tutorial-site-blog-archive-5-ad-318"
+    "archive": "00009414"
   },
-  "/tech-tutorial-site/contact-136": {
-    "__comp": "__comp---site-src-pages-contact-js-83-e-320",
+  "/cstutorial/contact-f85": {
+    "__comp": "83e9e333",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-about-225-7dc"
+      "plugin": "2255b9fc"
     },
-    "config": "config---tech-tutorial-site-about-5-e-9-2b9"
+    "config": "5e9f5e1a"
   },
-  "/tech-tutorial-site/privacy-policy-d84": {
-    "__comp": "__comp---site-src-pages-privacy-policy-js-002-9a0",
+  "/cstutorial/privacy-policy-675": {
+    "__comp": "002cd966",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-about-225-7dc"
+      "plugin": "2255b9fc"
     },
-    "config": "config---tech-tutorial-site-about-5-e-9-2b9"
+    "config": "5e9f5e1a"
   },
-  "/tech-tutorial-site/docs-87b": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/cstutorial/docs-c03": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---tech-tutorial-site-docs-175-abb"
+      "plugin": "17528f9f"
     },
-    "versionMetadata": "versionMetadata---tech-tutorial-site-docs-935-292"
+    "versionMetadata": "935f2afb"
   },
-  "/tech-tutorial-site/docs/excel/demo-937": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-excel-demo-6-df-c6f"
+  "/cstutorial/docs/excel/demo-08d": {
+    "__comp": "17896441",
+    "content": "6dfdfc78"
   },
-  "/tech-tutorial-site/docs/python/demo-087": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-demo-72-b-0e9"
+  "/cstutorial/docs/python/demo-3f6": {
+    "__comp": "17896441",
+    "content": "72b32952"
   },
-  "/tech-tutorial-site/docs/python/functions-c53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-functionscbf-556"
+  "/cstutorial/docs/python/functions-513": {
+    "__comp": "17896441",
+    "content": "cbf29a7b"
   },
-  "/tech-tutorial-site/docs/python/intro-06f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-introd-30-3e8"
+  "/cstutorial/docs/python/intro-009": {
+    "__comp": "17896441",
+    "content": "d30e4dd3"
   },
-  "/tech-tutorial-site/docs/python/loops-a89": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-loopsf-04-854"
+  "/cstutorial/docs/python/loops-c85": {
+    "__comp": "17896441",
+    "content": "f047cba7"
   },
-  "/tech-tutorial-site/docs/python/python_list-555": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-python-lista-43-f50"
+  "/cstutorial/docs/python/python_list-d5e": {
+    "__comp": "17896441",
+    "content": "a43cdb69"
   },
-  "/tech-tutorial-site/docs/python/variables-c0c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-python-variablesb-69-637"
+  "/cstutorial/docs/python/variables-ca0": {
+    "__comp": "17896441",
+    "content": "b6932828"
   },
-  "/tech-tutorial-site/docs/sql/basics-ce5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-sql-basics-8-e-1-b8f"
+  "/cstutorial/docs/sql/basics-3b4": {
+    "__comp": "17896441",
+    "content": "8e1e0d27"
   },
-  "/tech-tutorial-site/docs/sql/joins-b92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-sql-joins-809-bcb"
+  "/cstutorial/docs/sql/joins-cde": {
+    "__comp": "17896441",
+    "content": "8093396a"
   },
-  "/tech-tutorial-site/docs/sql/select-f27": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---tech-tutorial-site-docs-sql-select-88-a-b75"
+  "/cstutorial/docs/sql/select-88b": {
+    "__comp": "17896441",
+    "content": "88aa2df5"
   }
 }

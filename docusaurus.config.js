@@ -4,7 +4,7 @@ module.exports = {
   title: 'Tech Tutorials',
   tagline: 'Learn Programming Step by Step',
   url: 'https://yourusername.github.io',
-  baseUrl: '/tech-tutorial-site/',
+  baseUrl: '/cstutorial/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -30,7 +30,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/yourusername/tech-tutorial-site/edit/main/',
+          editUrl: 'https://github.com/shahil04/cstutorial/edit/main/',
           remarkPlugins: [
             require('remark-react'),
           ],
@@ -85,7 +85,7 @@ module.exports = {
   title: 'Tech Tutorials',
   tagline: 'Learn Programming Step by Step',
   url: 'https://yourusername.github.io',
-  baseUrl: '/tech-tutorial-site/',
+  baseUrl: '/cstutorial/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -107,7 +107,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/yourusername/tech-tutorial-site/edit/main/',
+          editUrl: 'https://github.com/shahil04/cstutorial/edit/main/',
         },
         blog: {
           showReadingTime: true,
