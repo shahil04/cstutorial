@@ -10,6 +10,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'yourusername', // GitHub org/user name
   projectName: 'tech-tutorial-site', // Repo name
+  url: 'https://shahil04.github.io',
+  baseUrl: '/cstutorial/',
+  organizationName: 'shahil04',
+  projectName: 'cstutorial',
   scripts: [
     {
       src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adClient}`,
