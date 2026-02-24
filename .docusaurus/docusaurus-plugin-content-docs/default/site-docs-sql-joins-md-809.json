@@ -1,0 +1,27 @@
+{
+  "unversionedId": "sql/joins",
+  "id": "sql/joins",
+  "title": "JOINS in SQL",
+  "description": "Joins combine rows from two or more tables based on related columns.",
+  "source": "@site/docs/sql/joins.md",
+  "sourceDirName": "sql",
+  "slug": "/sql/joins",
+  "permalink": "/tech-tutorial-site/docs/sql/joins",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/joins.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "joins",
+    "title": "JOINS in SQL"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL Basics",
+    "permalink": "/tech-tutorial-site/docs/sql/basics"
+  },
+  "next": {
+    "title": "SELECT in SQL",
+    "permalink": "/tech-tutorial-site/docs/sql/select"
+  }
+}

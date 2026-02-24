@@ -1,0 +1,27 @@
+{
+  "unversionedId": "python/variables",
+  "id": "python/variables",
+  "title": "Variables in Python",
+  "description": "Variables store values and are created when first assigned. Python is dynamically typed, so you don't declare variable types explicitly.",
+  "source": "@site/docs/python/variables.md",
+  "sourceDirName": "python",
+  "slug": "/python/variables",
+  "permalink": "/tech-tutorial-site/docs/python/variables",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/variables.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "variables",
+    "title": "Variables in Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python List",
+    "permalink": "/tech-tutorial-site/docs/python/python_list"
+  },
+  "next": {
+    "title": "SQL Basics",
+    "permalink": "/tech-tutorial-site/docs/sql/basics"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "python/python_list",
+  "id": "python/python_list",
+  "title": "Python List",
+  "description": "",
+  "source": "@site/docs/python/python_list.md",
+  "sourceDirName": "python",
+  "slug": "/python/python_list",
+  "permalink": "/tech-tutorial-site/docs/python/python_list",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/python_list.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Python List"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loops in Python",
+    "permalink": "/tech-tutorial-site/docs/python/loops"
+  },
+  "next": {
+    "title": "Variables in Python",
+    "permalink": "/tech-tutorial-site/docs/python/variables"
+  }
+}

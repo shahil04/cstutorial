@@ -1,0 +1,24 @@
+{
+  "unversionedId": "python/demo",
+  "id": "python/demo",
+  "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+  "description": "Follow these steps to host your Docusaurus project on GitHub Pages at no cost:",
+  "source": "@site/docs/python/demo.md",
+  "sourceDirName": "python",
+  "slug": "/python/demo",
+  "permalink": "/tech-tutorial-site/docs/python/demo",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hello Excels",
+    "permalink": "/tech-tutorial-site/docs/excel/demo"
+  },
+  "next": {
+    "title": "Functions in Python",
+    "permalink": "/tech-tutorial-site/docs/python/functions"
+  }
+}

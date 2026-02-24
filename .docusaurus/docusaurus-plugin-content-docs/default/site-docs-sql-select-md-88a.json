@@ -1,0 +1,23 @@
+{
+  "unversionedId": "sql/select",
+  "id": "sql/select",
+  "title": "SELECT in SQL",
+  "description": "The SELECT statement retrieves rows from a table. You can filter, sort and aggregate results.",
+  "source": "@site/docs/sql/select.md",
+  "sourceDirName": "sql",
+  "slug": "/sql/select",
+  "permalink": "/tech-tutorial-site/docs/sql/select",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/select.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "select",
+    "title": "SELECT in SQL"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JOINS in SQL",
+    "permalink": "/tech-tutorial-site/docs/sql/joins"
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/tech-tutorial-site/docs",
+          "tagsPath": "/tech-tutorial-site/docs/tags",
+          "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs",
+          "editUrlLocalized": "https://github.com/yourusername/tech-tutorial-site/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\sidebars.js",
+          "contentPath": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\docs",
+          "contentPathLocalized": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "excel/demo",
+              "id": "excel/demo",
+              "title": "Hello Excels",
+              "description": "",
+              "source": "@site/docs/excel/demo.md",
+              "sourceDirName": "excel",
+              "slug": "/excel/demo",
+              "permalink": "/tech-tutorial-site/docs/excel/demo",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/excel/demo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Hello Excels"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+                "permalink": "/tech-tutorial-site/docs/python/demo"
+              }
+            },
+            {
+              "unversionedId": "python/demo",
+              "id": "python/demo",
+              "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+              "description": "Follow these steps to host your Docusaurus project on GitHub Pages at no cost:",
+              "source": "@site/docs/python/demo.md",
+              "sourceDirName": "python",
+              "slug": "/python/demo",
+              "permalink": "/tech-tutorial-site/docs/python/demo",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/demo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hello Excels",
+                "permalink": "/tech-tutorial-site/docs/excel/demo"
+              },
+              "next": {
+                "title": "Functions in Python",
+                "permalink": "/tech-tutorial-site/docs/python/functions"
+              }
+            },
+            {
+              "unversionedId": "python/functions",
+              "id": "python/functions",
+              "title": "Functions in Python",
+              "description": "Functions are reusable blocks of code defined with the def keyword.",
+              "source": "@site/docs/python/functions.md",
+              "sourceDirName": "python",
+              "slug": "/python/functions",
+              "permalink": "/tech-tutorial-site/docs/python/functions",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/functions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "functions",
+                "title": "Functions in Python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+                "permalink": "/tech-tutorial-site/docs/python/demo"
+              },
+              "next": {
+                "title": "Introduction to Python",
+                "permalink": "/tech-tutorial-site/docs/python/intro"
+              }
+            },
+            {
+              "unversionedId": "python/intro",
+              "id": "python/intro",
+              "title": "Introduction to Python",
+              "description": "Python is a high-level, interpreted programming language known for its readability and extensive standard library. It is widely used for web development, data analysis, scientific computing, and scripting.",
+              "source": "@site/docs/python/intro.md",
+              "sourceDirName": "python",
+              "slug": "/python/intro",
+              "permalink": "/tech-tutorial-site/docs/python/intro",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "intro",
+                "title": "Introduction to Python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Functions in Python",
+                "permalink": "/tech-tutorial-site/docs/python/functions"
+              },
+              "next": {
+                "title": "Loops in Python",
+                "permalink": "/tech-tutorial-site/docs/python/loops"
+              }
+            },
+            {
+              "unversionedId": "python/loops",
+              "id": "python/loops",
+              "title": "Loops in Python",
+              "description": "Loops let you iterate over sequences or execute code multiple times. Common loops are for and while.",
+              "source": "@site/docs/python/loops.md",
+              "sourceDirName": "python",
+              "slug": "/python/loops",
+              "permalink": "/tech-tutorial-site/docs/python/loops",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/loops.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "loops",
+                "title": "Loops in Python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Python",
+                "permalink": "/tech-tutorial-site/docs/python/intro"
+              },
+              "next": {
+                "title": "Python List",
+                "permalink": "/tech-tutorial-site/docs/python/python_list"
+              }
+            },
+            {
+              "unversionedId": "python/python_list",
+              "id": "python/python_list",
+              "title": "Python List",
+              "description": "",
+              "source": "@site/docs/python/python_list.md",
+              "sourceDirName": "python",
+              "slug": "/python/python_list",
+              "permalink": "/tech-tutorial-site/docs/python/python_list",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/python_list.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Python List"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Loops in Python",
+                "permalink": "/tech-tutorial-site/docs/python/loops"
+              },
+              "next": {
+                "title": "Variables in Python",
+                "permalink": "/tech-tutorial-site/docs/python/variables"
+              }
+            },
+            {
+              "unversionedId": "python/variables",
+              "id": "python/variables",
+              "title": "Variables in Python",
+              "description": "Variables store values and are created when first assigned. Python is dynamically typed, so you don't declare variable types explicitly.",
+              "source": "@site/docs/python/variables.md",
+              "sourceDirName": "python",
+              "slug": "/python/variables",
+              "permalink": "/tech-tutorial-site/docs/python/variables",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/variables.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "variables",
+                "title": "Variables in Python"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python List",
+                "permalink": "/tech-tutorial-site/docs/python/python_list"
+              },
+              "next": {
+                "title": "SQL Basics",
+                "permalink": "/tech-tutorial-site/docs/sql/basics"
+              }
+            },
+            {
+              "unversionedId": "sql/basics",
+              "id": "sql/basics",
+              "title": "SQL Basics",
+              "description": "SQL (Structured Query Language) is used to interact with relational databases. You can create, read, update and delete data using SQL.",
+              "source": "@site/docs/sql/basics.md",
+              "sourceDirName": "sql",
+              "slug": "/sql/basics",
+              "permalink": "/tech-tutorial-site/docs/sql/basics",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/basics.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "basics",
+                "title": "SQL Basics"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Variables in Python",
+                "permalink": "/tech-tutorial-site/docs/python/variables"
+              },
+              "next": {
+                "title": "JOINS in SQL",
+                "permalink": "/tech-tutorial-site/docs/sql/joins"
+              }
+            },
+            {
+              "unversionedId": "sql/joins",
+              "id": "sql/joins",
+              "title": "JOINS in SQL",
+              "description": "Joins combine rows from two or more tables based on related columns.",
+              "source": "@site/docs/sql/joins.md",
+              "sourceDirName": "sql",
+              "slug": "/sql/joins",
+              "permalink": "/tech-tutorial-site/docs/sql/joins",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/joins.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "joins",
+                "title": "JOINS in SQL"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SQL Basics",
+                "permalink": "/tech-tutorial-site/docs/sql/basics"
+              },
+              "next": {
+                "title": "SELECT in SQL",
+                "permalink": "/tech-tutorial-site/docs/sql/select"
+              }
+            },
+            {
+              "unversionedId": "sql/select",
+              "id": "sql/select",
+              "title": "SELECT in SQL",
+              "description": "The SELECT statement retrieves rows from a table. You can filter, sort and aggregate results.",
+              "source": "@site/docs/sql/select.md",
+              "sourceDirName": "sql",
+              "slug": "/sql/select",
+              "permalink": "/tech-tutorial-site/docs/sql/select",
+              "draft": false,
+              "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/sql/select.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "slug": "select",
+                "title": "SELECT in SQL"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "JOINS in SQL",
+                "permalink": "/tech-tutorial-site/docs/sql/joins"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "excel",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "excel/demo"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "python",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "python/demo"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python/functions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python/intro"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python/loops"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python/python_list"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "python/variables"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "sql",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "sql/basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sql/joins"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sql/select"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "/2026/01/01/welcome",
+          "metadata": {
+            "permalink": "/tech-tutorial-site/blog/2026/01/01/welcome",
+            "source": "@site/blog/2026-01-01-welcome.md",
+            "title": "Welcome to Tech Tutorials",
+            "description": "This is the blog for announcements and guides.",
+            "date": "2026-01-01T00:00:00.000Z",
+            "formattedDate": "January 1, 2026",
+            "tags": [],
+            "readingTime": 0.04,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Tech Team"
+              }
+            ],
+            "frontMatter": {
+              "title": "Welcome to Tech Tutorials",
+              "author": "Tech Team"
+            }
+          },
+          "content": "This is the blog for announcements and guides."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "/2026/01/01/welcome"
+          ],
+          "metadata": {
+            "permalink": "/tech-tutorial-site/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/tech-tutorial-site/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/tech-tutorial-site/about",
+        "source": "@site/src/pages/about.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/tech-tutorial-site/contact",
+        "source": "@site/src/pages/contact.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/tech-tutorial-site/privacy-policy",
+        "source": "@site/src/pages/privacy-policy.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

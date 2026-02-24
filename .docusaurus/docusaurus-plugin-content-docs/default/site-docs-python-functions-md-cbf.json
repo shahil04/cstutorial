@@ -1,0 +1,27 @@
+{
+  "unversionedId": "python/functions",
+  "id": "python/functions",
+  "title": "Functions in Python",
+  "description": "Functions are reusable blocks of code defined with the def keyword.",
+  "source": "@site/docs/python/functions.md",
+  "sourceDirName": "python",
+  "slug": "/python/functions",
+  "permalink": "/tech-tutorial-site/docs/python/functions",
+  "draft": false,
+  "editUrl": "https://github.com/yourusername/tech-tutorial-site/edit/main/docs/python/functions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "functions",
+    "title": "Functions in Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+    "permalink": "/tech-tutorial-site/docs/python/demo"
+  },
+  "next": {
+    "title": "Introduction to Python",
+    "permalink": "/tech-tutorial-site/docs/python/intro"
+  }
+}

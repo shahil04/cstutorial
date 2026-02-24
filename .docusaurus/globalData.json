@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/tech-tutorial-site/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/tech-tutorial-site/docs",
+          "mainDocId": "excel/demo",
+          "docs": [
+            {
+              "id": "excel/demo",
+              "path": "/tech-tutorial-site/docs/excel/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/demo",
+              "path": "/tech-tutorial-site/docs/python/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/functions",
+              "path": "/tech-tutorial-site/docs/python/functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/intro",
+              "path": "/tech-tutorial-site/docs/python/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/loops",
+              "path": "/tech-tutorial-site/docs/python/loops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/python_list",
+              "path": "/tech-tutorial-site/docs/python/python_list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/variables",
+              "path": "/tech-tutorial-site/docs/python/variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/basics",
+              "path": "/tech-tutorial-site/docs/sql/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/joins",
+              "path": "/tech-tutorial-site/docs/sql/joins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/select",
+              "path": "/tech-tutorial-site/docs/sql/select",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/tech-tutorial-site/docs/excel/demo",
+                "label": "excel/demo"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
