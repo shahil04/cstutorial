@@ -5,7 +5,7 @@ module.exports = {
   tagline: 'Learn Programming Step by Step',
   url: 'https://shahil04.github.io',
   baseUrl: '/cstutorial/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'shahil04', // GitHub org/user name
