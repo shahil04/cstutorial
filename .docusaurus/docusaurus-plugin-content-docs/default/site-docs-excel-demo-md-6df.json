@@ -1,0 +1,22 @@
+{
+  "unversionedId": "excel/demo",
+  "id": "excel/demo",
+  "title": "Hello Excels",
+  "description": "",
+  "source": "@site/docs/excel/demo.md",
+  "sourceDirName": "excel",
+  "slug": "/excel/demo",
+  "permalink": "/cstutorial/docs/excel/demo",
+  "draft": false,
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/docs/excel/demo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hello Excels"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+    "permalink": "/cstutorial/docs/python/demo"
+  }
+}

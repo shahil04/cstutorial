@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_tutorial_site=self.webpackChunktech_tutorial_site||[]).push([[220],{6905(e,t,l){l.r(t),l.d(t,{default:()=>a});var r=l(6540);function a(){return r.createElement("main",{style:{padding:20}},r.createElement("h1",null,"About Tech Tutorials"),r.createElement("p",null,"Tech Tutorials provides clear, example-driven programming lessons."))}}}]);

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "python/intro",
+  "id": "python/intro",
+  "title": "Introduction to Python",
+  "description": "Python is a high-level, interpreted programming language known for its readability and extensive standard library. It is widely used for web development, data analysis, scientific computing, and scripting.",
+  "source": "@site/docs/python/intro.md",
+  "sourceDirName": "python",
+  "slug": "/python/intro",
+  "permalink": "/cstutorial/docs/python/intro",
+  "draft": false,
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/docs/python/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "intro",
+    "title": "Introduction to Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Functions in Python",
+    "permalink": "/cstutorial/docs/python/functions"
+  },
+  "next": {
+    "title": "Loops in Python",
+    "permalink": "/cstutorial/docs/python/loops"
+  }
+}

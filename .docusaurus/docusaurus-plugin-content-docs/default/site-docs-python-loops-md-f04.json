@@ -1,0 +1,27 @@
+{
+  "unversionedId": "python/loops",
+  "id": "python/loops",
+  "title": "Loops in Python",
+  "description": "Loops let you iterate over sequences or execute code multiple times. Common loops are for and while.",
+  "source": "@site/docs/python/loops.md",
+  "sourceDirName": "python",
+  "slug": "/python/loops",
+  "permalink": "/cstutorial/docs/python/loops",
+  "draft": false,
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/docs/python/loops.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "loops",
+    "title": "Loops in Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Python",
+    "permalink": "/cstutorial/docs/python/intro"
+  },
+  "next": {
+    "title": "Python List",
+    "permalink": "/cstutorial/docs/python/python_list"
+  }
+}

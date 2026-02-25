@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_tutorial_site=self.webpackChunktech_tutorial_site||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Tech Tutorials","permalink":"/cstutorial/blog/2026/01/01/welcome"}]}')}}]);

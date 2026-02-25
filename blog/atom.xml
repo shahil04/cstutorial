@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shahil04.github.io/cstutorial/blog</id>
+    <title>Tech Tutorials Blog</title>
+    <updated>2026-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shahil04.github.io/cstutorial/blog"/>
+    <subtitle>Tech Tutorials Blog</subtitle>
+    <icon>https://shahil04.github.io/cstutorial/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Tech Tutorials]]></title>
+        <id>https://shahil04.github.io/cstutorial/blog/2026/01/01/welcome</id>
+        <link href="https://shahil04.github.io/cstutorial/blog/2026/01/01/welcome"/>
+        <updated>2026-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the blog for announcements and guides.]]></summary>
+        <content type="html"><![CDATA[<p>This is the blog for announcements and guides.</p>]]></content>
+        <author>
+            <name>Tech Team</name>
+        </author>
+    </entry>
+</feed>

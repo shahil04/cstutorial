@@ -1,0 +1,21 @@
+{
+  "permalink": "/cstutorial/blog/2026/01/01/welcome",
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/blog/2026-01-01-welcome.md",
+  "source": "@site/blog/2026-01-01-welcome.md",
+  "title": "Welcome to Tech Tutorials",
+  "description": "This is the blog for announcements and guides.",
+  "date": "2026-01-01T00:00:00.000Z",
+  "formattedDate": "January 1, 2026",
+  "tags": [],
+  "readingTime": 0.04,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Tech Team"
+    }
+  ],
+  "frontMatter": {
+    "title": "Welcome to Tech Tutorials",
+    "author": "Tech Team"
+  }
+}

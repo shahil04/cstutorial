@@ -1,0 +1,27 @@
+{
+  "unversionedId": "python/functions",
+  "id": "python/functions",
+  "title": "Functions in Python",
+  "description": "Functions are reusable blocks of code defined with the def keyword.",
+  "source": "@site/docs/python/functions.md",
+  "sourceDirName": "python",
+  "slug": "/python/functions",
+  "permalink": "/cstutorial/docs/python/functions",
+  "draft": false,
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/docs/python/functions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "functions",
+    "title": "Functions in Python"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy Docusaurus Site to GitHub Pages for Free",
+    "permalink": "/cstutorial/docs/python/demo"
+  },
+  "next": {
+    "title": "Introduction to Python",
+    "permalink": "/cstutorial/docs/python/intro"
+  }
+}

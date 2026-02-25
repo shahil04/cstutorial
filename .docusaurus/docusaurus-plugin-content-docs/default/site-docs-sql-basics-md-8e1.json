@@ -1,0 +1,27 @@
+{
+  "unversionedId": "sql/basics",
+  "id": "sql/basics",
+  "title": "SQL Basics",
+  "description": "SQL (Structured Query Language) is used to interact with relational databases. You can create, read, update and delete data using SQL.",
+  "source": "@site/docs/sql/basics.md",
+  "sourceDirName": "sql",
+  "slug": "/sql/basics",
+  "permalink": "/cstutorial/docs/sql/basics",
+  "draft": false,
+  "editUrl": "https://github.com/shahil04/cstutorial/tree/main/docs/sql/basics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "basics",
+    "title": "SQL Basics"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Variables in Python",
+    "permalink": "/cstutorial/docs/python/variables"
+  },
+  "next": {
+    "title": "JOINS in SQL",
+    "permalink": "/cstutorial/docs/sql/joins"
+  }
+}

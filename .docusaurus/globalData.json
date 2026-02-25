@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/cstutorial/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/cstutorial/docs",
+          "mainDocId": "excel/demo",
+          "docs": [
+            {
+              "id": "excel/demo",
+              "path": "/cstutorial/docs/excel/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/demo",
+              "path": "/cstutorial/docs/python/demo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/functions",
+              "path": "/cstutorial/docs/python/functions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/intro",
+              "path": "/cstutorial/docs/python/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/loops",
+              "path": "/cstutorial/docs/python/loops",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/python_list",
+              "path": "/cstutorial/docs/python/python_list",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python/variables",
+              "path": "/cstutorial/docs/python/variables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/basics",
+              "path": "/cstutorial/docs/sql/basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/joins",
+              "path": "/cstutorial/docs/sql/joins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sql/select",
+              "path": "/cstutorial/docs/sql/select",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/cstutorial/docs/excel/demo",
+                "label": "excel/demo"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

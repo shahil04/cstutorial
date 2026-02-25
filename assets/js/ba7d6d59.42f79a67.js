@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktech_tutorial_site=self.webpackChunktech_tutorial_site||[]).push([[337],{6384(t){t.exports=JSON.parse('{"permalink":"/cstutorial/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
