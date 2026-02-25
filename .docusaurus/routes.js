@@ -4,37 +4,37 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/cstutorial/about',
-    component: ComponentCreator('/cstutorial/about', '12f'),
+    component: ComponentCreator('/cstutorial/about', '2b8'),
     exact: true
   },
   {
     path: '/cstutorial/blog',
-    component: ComponentCreator('/cstutorial/blog', '213'),
+    component: ComponentCreator('/cstutorial/blog', '78f'),
     exact: true
   },
   {
     path: '/cstutorial/blog/2026/01/01/welcome',
-    component: ComponentCreator('/cstutorial/blog/2026/01/01/welcome', 'd20'),
+    component: ComponentCreator('/cstutorial/blog/2026/01/01/welcome', '3cc'),
     exact: true
   },
   {
     path: '/cstutorial/blog/archive',
-    component: ComponentCreator('/cstutorial/blog/archive', '2a4'),
+    component: ComponentCreator('/cstutorial/blog/archive', '4d8'),
     exact: true
   },
   {
     path: '/cstutorial/contact',
-    component: ComponentCreator('/cstutorial/contact', 'f85'),
+    component: ComponentCreator('/cstutorial/contact', '136'),
     exact: true
   },
   {
     path: '/cstutorial/privacy-policy',
-    component: ComponentCreator('/cstutorial/privacy-policy', '675'),
+    component: ComponentCreator('/cstutorial/privacy-policy', '6ed'),
     exact: true
   },
   {
     path: '/cstutorial/docs',
-    component: ComponentCreator('/cstutorial/docs', 'c03'),
+    component: ComponentCreator('/cstutorial/docs', '3af'),
     routes: [
       {
         path: '/cstutorial/docs/excel/demo',

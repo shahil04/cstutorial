@@ -6,13 +6,13 @@
 export default {
   "title": "Tech Tutorials",
   "tagline": "Learn Programming Step by Step",
-  "url": "https://yourusername.github.io",
+  "url": "https://shahil04.github.io",
   "baseUrl": "/cstutorial/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "yourusername",
-  "projectName": "tech-tutorial-site",
+  "organizationName": "shahil04",
+  "projectName": "cstutorial",
   "scripts": [
     {
       "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxx",
@@ -28,14 +28,15 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\sidebars.js",
-          "editUrl": "https://github.com/shahil04/cstutorial/edit/main/"
+          "sidebarPath": "C:\\Users\\hp\\Documents\\tech-tutorial-site\\sidebars.js",
+          "editUrl": "https://github.com/shahil04/cstutorial/tree/main/"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "editUrl": "https://github.com/shahil04/cstutorial/tree/main/"
         },
         "theme": {
-          "customCss": "C:\\Users\\hp\\Documents\\tech2tutorial\\tech-tutorial-site\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\hp\\Documents\\tech-tutorial-site\\src\\css\\custom.css"
         }
       }
     ]
@@ -92,7 +93,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/yourusername"
+              "href": "https://github.com/shahil04/cstutorial"
             }
           ]
         }
