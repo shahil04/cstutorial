@@ -8,11 +8,13 @@ export default {
   "tagline": "Learn Programming Step by Step",
   "url": "https://shahil04.github.io",
   "baseUrl": "/cstutorial/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "shahil04",
   "projectName": "cstutorial",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "scripts": [
     {
       "src": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxx",

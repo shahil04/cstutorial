@@ -10,6 +10,8 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'shahil04', // GitHub org/user name
   projectName: 'cstutorial', // Repo name
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
   scripts: [
     {
       src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adClient}`,
